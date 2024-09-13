@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinmall" alt="sachinmall" /></a> </p>
 
-- 🌱 I’m currently learning **Exploring more about state management in Flutter (Bloc, GetX, Riverpod, Provider)**
+- 🌱 I’m currently learning **Exploring more about state management in Flutter (Bloc, and Riverpod,)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SachinMall?tab=repositories](https://github.com/SachinMall?tab=repositories)
 
